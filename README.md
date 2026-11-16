@@ -20,4 +20,4 @@ docker run -d --name profil-melani -p 8082:80 profil-melania:1.0
 
 ## Screenshot
 
-![Halaman profil di localhost:8082](hasil_localhost.jpg)
+![Halaman profil di localhost:8082](hasil_localhost.png)

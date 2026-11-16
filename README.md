@@ -10,12 +10,12 @@ Proyek ini merupakan praktikum membuat halaman profil pribadi menggunakan Docker
 
 ## Cara Build
 ```bash
-docker build -t profil-melania:1.0 .
+docker build -t profil-melaniayuanjani:1.0 .
 ```
 
 ## Cara Run
 ```bash
-docker run -d --name profil-melani -p 8082:80 profil-melania:1.0
+docker run -d --name profil-melaniayuanjani -p 8082:80 profil-melaniayuanjani:1.0
 ```
 
 ## Screenshot
